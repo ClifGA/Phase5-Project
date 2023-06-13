@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.app",
+  "appName": "my-app",
+  "webDir": "out",
+  "linuxAndroidStudioPath": "/opt/android-studio-2022.2.1/android-studio/bin/studio.sh",
+  "server": {
+    "androidScheme": false
+  }
+}
